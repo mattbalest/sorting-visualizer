@@ -1,0 +1,45 @@
+.array-bar {
+    width: 4px;
+    background-color: #0d5eff;
+    display: inline-block;
+    border: none;
+    margin: 0 1px;
+    
+}
+
+.array-container{
+    position: absolute;
+    left: 100px;
+}
+
+button {
+    border: none;
+    display: inline-block;
+    background-color: #0b4ed4;
+    color: white;
+    margin-left: 55px;
+    margin-right: 55px;
+    cursor: pointer;
+    height: 78px;
+    
+  
+}
+
+.button-back {
+    background-color: #0b4ed4;
+    border: 100px;
+    width: 100%;
+    height: 78px;
+   
+
+}
+
+button:hover{
+    color: #757980;
+    border: 1px solid;
+    border-color: white;
+}
+
+body{
+    background-color: #4e86f5;
+}
